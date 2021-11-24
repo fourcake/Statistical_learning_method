@@ -19,3 +19,7 @@ github的md渲染引擎理念是最简单的md语法，所以数学公式不支�
 打开typora设置，设置如下 
 
 ![image-20211102160940238](images/README/image-20211102160940238.png)
+
+总结
+
+<img src="images/README/image-20211124153117600.png" alt="image-20211124153117600" style="zoom:80%;" />
